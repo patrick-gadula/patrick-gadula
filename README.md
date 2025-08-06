@@ -2,7 +2,7 @@
 
 **Computer Science & Mathematics Graduate | Software Developer | AI Enthusiast**
 
-[LinkedIn](https://www.linkedin.com/in/patrick-gadula) • gadulapatrick@gmail.com
+[Website](patrick-gadula.github.io) • [LinkedIn](https://www.linkedin.com/in/patrick-gadula) • gadulapatrick@gmail.com
 
 ---
 
