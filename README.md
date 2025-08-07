@@ -56,4 +56,4 @@ GPA: **3.83/4.0** — Dean’s List
 
 ---
 
-_Thanks for visiting my GitHub!_ 🚀
+_Thanks for visiting my GitHub!_
