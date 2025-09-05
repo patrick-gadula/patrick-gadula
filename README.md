@@ -21,9 +21,10 @@ GPA: **3.83/4.0** — Dean’s List
 ## 💼 Work Experience
 
 **WishTender** — _Software Developer Intern (June 2024 – August 2024)_  
-- Developed gift scheduling features to boost user engagement  
+- Built and deployed an MVP fundraising platform with gamified virtual box mechanics, integrating user contributions and randomized prize distribution
+- Implemented a responsive React frontend with dynamic animations and real-time updates to enhance user engagement during virtual box openings
 - Reduced query response times by 30% via database query optimization  
-- Refactored core matching algorithms using binary search and efficient sorting  
+
 
 ---
 
