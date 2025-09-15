@@ -34,10 +34,13 @@ GPA: **3.83/4.0** — Dean’s List
 - AI assistant for veterinarians using FAISS + TF-IDF + OpenAI LLM
 - Processes domain-specific texts for real-time Q&A
 
-### 🔍 Search Engine (C++)
-- Built a lightweight search engine with token cleaning and query matching
+### Algorithmic Trading Backtester (Python, Docker)‬
+‬‭- Built a reproducible trading research environment using Docker, yfinance, pandas, and‬ statsmodels‬
+- Implemented SMA crossover strategies with parameter optimization‬
+- Added stop-loss and take-profit rules to simulate trades‬
+‭
 
-### 🎰 Casino Roulette Simulator in Minecraft (Java)
+### 🎰 Essentials craft (Java)
 - Created a full roulette system inside Minecraft with accurate probability logic
 
 ---
@@ -46,7 +49,7 @@ GPA: **3.83/4.0** — Dean’s List
 
 **Languages:** Python, Java, C++, HTML/CSS, SQL, Assembly, Haskell, JavaScript, TypeScript  
 **Skills:** NLP, Generative AI, Data Structures, Algorithms, OOP, Quantitative Math, Formal Methods  
-**Tools:** MongoDB, SQL, GitHub, OpenAI, Neo4j, React, Node, Vite, Express
+**Tools:** MongoDB, SQL, GitHub, OpenAI, Neo4j, React, Node, Vite, Express, Docker
 
 ---
 
